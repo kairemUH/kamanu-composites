@@ -23,6 +23,7 @@ a {
 #bottomMenu {
   background-color: black;
   color: lightsteelblue;
+  height: 200px;
 }
 
 div.nav-item.nav-link {
